@@ -1,3 +1,5 @@
+// This is a console application for quickly checking the connection with a remote host
+
 package main
 
 import (
